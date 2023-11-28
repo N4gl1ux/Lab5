@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="msg_using_thread">Using Thread</string>
+    <string name="tv_guide_text">Type currency name and press the button to get rates per 1 USD</string>
+    <string name="btn_text">Get data!</string>
+    <string name="tv_status_text">Nothing is happening.</string>
+    <string name="data_loaded">Data loaded:\n</string>
+    <string name="loading_data">Loading data...\n</string>
+</resources>
